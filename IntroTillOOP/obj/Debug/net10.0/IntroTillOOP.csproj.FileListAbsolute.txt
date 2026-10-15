@@ -1,0 +1,16 @@
+C:\Users\Sheno\source\repos\GitHub\Intro till OOP Inlämning Shenol\IntroTillOOP\bin\Debug\net10.0\IntroTillOOP.exe
+C:\Users\Sheno\source\repos\GitHub\Intro till OOP Inlämning Shenol\IntroTillOOP\bin\Debug\net10.0\IntroTillOOP.deps.json
+C:\Users\Sheno\source\repos\GitHub\Intro till OOP Inlämning Shenol\IntroTillOOP\bin\Debug\net10.0\IntroTillOOP.runtimeconfig.json
+C:\Users\Sheno\source\repos\GitHub\Intro till OOP Inlämning Shenol\IntroTillOOP\bin\Debug\net10.0\IntroTillOOP.dll
+C:\Users\Sheno\source\repos\GitHub\Intro till OOP Inlämning Shenol\IntroTillOOP\bin\Debug\net10.0\IntroTillOOP.pdb
+C:\Users\Sheno\source\repos\GitHub\Intro till OOP Inlämning Shenol\IntroTillOOP\obj\Debug\net10.0\IntroTillOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheno\source\repos\GitHub\Intro till OOP Inlämning Shenol\IntroTillOOP\obj\Debug\net10.0\IntroTillOOP.AssemblyInfoInputs.cache
+C:\Users\Sheno\source\repos\GitHub\Intro till OOP Inlämning Shenol\IntroTillOOP\obj\Debug\net10.0\IntroTillOOP.AssemblyInfo.cs
+C:\Users\Sheno\source\repos\GitHub\Intro till OOP Inlämning Shenol\IntroTillOOP\obj\Debug\net10.0\IntroTillOOP.csproj.CoreCompileInputs.cache
+C:\Users\Sheno\source\repos\GitHub\Intro till OOP Inlämning Shenol\IntroTillOOP\obj\Debug\net10.0\IntroTillOOP.sourcelink.json
+C:\Users\Sheno\source\repos\GitHub\Intro till OOP Inlämning Shenol\IntroTillOOP\obj\Debug\net10.0\IntroTillOOP.dll
+C:\Users\Sheno\source\repos\GitHub\Intro till OOP Inlämning Shenol\IntroTillOOP\obj\Debug\net10.0\refint\IntroTillOOP.dll
+C:\Users\Sheno\source\repos\GitHub\Intro till OOP Inlämning Shenol\IntroTillOOP\obj\Debug\net10.0\IntroTillOOP.pdb
+C:\Users\Sheno\source\repos\GitHub\Intro till OOP Inlämning Shenol\IntroTillOOP\obj\Debug\net10.0\IntroTillOOP.genruntimeconfig.cache
+C:\Users\Sheno\source\repos\GitHub\Intro till OOP Inlämning Shenol\IntroTillOOP\obj\Debug\net10.0\ref\IntroTillOOP.dll
+C:\Users\Sheno\source\repos\GitHub\Intro till OOP Inlämning Shenol\IntroTillOOP\obj\Debug\net10.0\IntroTil.39DACDBB.Up2Date

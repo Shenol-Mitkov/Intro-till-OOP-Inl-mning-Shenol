@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sheno\\source\\repos\\GitHub\\Intro till OOP Inl\u00E4mning Shenol\\IntroTillOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9068EB-120D-4822-831B-41278AE31DC7}|IntroTillOOP.csproj|c:\\users\\sheno\\source\\repos\\github\\intro till oop inl\u00E4mning shenol\\introtilloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9068EB-120D-4822-831B-41278AE31DC7}|IntroTillOOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9068EB-120D-4822-831B-41278AE31DC7}|IntroTillOOP.csproj|c:\\users\\sheno\\source\\repos\\github\\intro till oop inl\u00E4mning shenol\\introtilloop\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9068EB-120D-4822-831B-41278AE31DC7}|IntroTillOOP.csproj|solutionrelative:entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Sheno\\source\\repos\\GitHub\\Intro till OOP Inl\u00E4mning Shenol\\IntroTillOOP\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "Entities\\Circle.cs",
+              "ToolTip": "C:\\Users\\Sheno\\source\\repos\\GitHub\\Intro till OOP Inl\u00E4mning Shenol\\IntroTillOOP\\Entities\\Circle.cs",
+              "RelativeToolTip": "Entities\\Circle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T06:59:18.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sheno\\source\\repos\\GitHub\\Intro till OOP Inl\u00E4mning Shenol\\IntroTillOOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sheno\\source\\repos\\GitHub\\Intro till OOP Inl\u00E4mning Shenol\\IntroTillOOP\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T06:58:32.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
